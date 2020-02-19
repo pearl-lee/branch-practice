@@ -2,4 +2,4 @@
 
 ## users
 
-- pearl-lee: Lee Jinju
+- pearl-lee: 이진주
